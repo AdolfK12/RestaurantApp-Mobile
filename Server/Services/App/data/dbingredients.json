@@ -1,0 +1,52 @@
+[
+  {
+      "id": 1,
+      "ItemId": 1,
+      "name": "Crab"
+  },
+  {
+      "id": 2,
+      "ItemId": 1,
+      "name": "Cucumber"
+  },
+  {
+      "id": 3,
+      "ItemId": 1,
+      "name": "Avocado"
+  },
+  {
+      "id": 4,
+      "ItemId": 1,
+      "name": "Sushi Rice"
+  },
+  {
+      "id": 5,
+      "ItemId": 1,
+      "name": "Seaweed"
+  },
+  {
+      "id": 6,
+      "ItemId": 2,
+      "name": "Salmon"
+  },
+  {
+      "id": 7,
+      "ItemId": 2,
+      "name": "Wasabi"
+  },
+  {
+      "id": 8,
+      "ItemId": 2,
+      "name": "Soy Sauce"
+  },
+  {
+      "id": 9,
+      "itemId": 3,
+      "name": "Tuna"
+  },
+  {
+      "id": 10,
+      "itemId": 3,
+      "name": "Sushi Rice"
+  }
+]

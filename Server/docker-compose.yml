@@ -1,0 +1,26 @@
+services:
+  app:
+    build: ./Services/App
+    container_name: app-services
+    ports:
+      - "3001:3001"
+    environment:
+      - DATABASE_URL=${DATABASE_URL}
+  user:
+    build: ./Services/User
+    container_name: user-services
+    ports:
+      - "3002:3002"
+    environment:
+      - DATABASE_URL=${MONGODB}
+  orchestrator:
+    build: ./Orchestrator-Apollo
+    container_name: orchestrator
+    ports:
+      - "80:4000"
+    environment:
+      - APP_SERVER_URL=${APP_SERVER_URL}
+      - USER_SERVER_URL=${USER_SERVER_URL}
+      - REDIS_URL=${REDIS_URL}
+ 
+      

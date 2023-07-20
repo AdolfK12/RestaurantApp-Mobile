@@ -1,0 +1,38 @@
+[
+  {
+      "id": 1,
+      "username": "admin1",
+      "email": "admin1@example.com",
+      "password": "admin123",
+      "role": "admin",
+      "phoneNumber": "081234567890",
+      "address": "Jalan Admin 1, Jakarta"
+  },
+  {
+      "id": 2,
+      "username": "admin2",
+      "email": "admin2@example.com",
+      "password": "admin234",
+      "role": "admin",
+      "phoneNumber": "082345678901",
+      "address": "Jalan Admin 2, Jakarta"
+  },
+  {
+      "id": 3,
+      "username": "user1",
+      "email": "user1@example.com",
+      "password": "user12345",
+      "role": "user",
+      "phoneNumber": "083456789012",
+      "address": "Jalan User 1, Bandung"
+  },
+  {
+      "id": 4,
+      "username": "user2",
+      "email": "user2@example.com",
+      "password": "user23456",
+      "role": "user",
+      "phoneNumber": "084567890123",
+      "address": "Jalan User 2, Bandung"
+  }
+]

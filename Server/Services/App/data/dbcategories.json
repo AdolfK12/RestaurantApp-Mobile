@@ -1,0 +1,42 @@
+[
+  {
+      "id": 1,
+      "name": "Sushi Rolls"
+  },
+  {
+      "id": 2,
+      "name": "Sashimi"
+  },
+  {
+      "id": 3,
+      "name": "Nigiri"
+  },
+  {
+      "id": 4,
+      "name": "Maki"
+  },
+  {
+      "id": 5,
+      "name": "Uramaki"
+  },
+  {
+      "id": 6,
+      "name": "Temaki"
+  },
+  {
+      "id": 7,
+      "name": "Chirashi"
+  },
+  {
+      "id": 8,
+      "name": "Gunkan"
+  },
+  {
+      "id": 9,
+      "name": "Oshi"
+  },
+  {
+      "id": 10,
+      "name": "Inari"
+  }
+]

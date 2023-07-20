@@ -1,0 +1,35 @@
+[
+  {
+      "id": 1,
+      "name": "California Roll",
+      "description": "A delicious sushi roll with crab, cucumber, and avocado.",
+      "price": 15000,
+      "imgUrl": "https://example.com/images/california-roll.jpg",
+      "UserId": 1,
+      "CategoryId": 1,
+      "createdAt": "2023-06-12T10:30:00.000Z",
+      "updatedAt": "2023-06-12T10:30:00.000Z"
+  },
+  {
+      "id": 2,
+      "name": "Salmon Sashimi",
+      "description": "Fresh salmon served raw and sliced thinly.",
+      "price": 25000,
+      "imgUrl": "https://example.com/images/salmon-sashimi.jpg",
+      "UserId": 1,
+      "CategoryId": 2,
+      "createdAt": "2023-06-12T11:00:00.000Z",
+      "updatedAt": "2023-06-12T11:00:00.000Z"
+  },
+  {
+      "id": 3,
+      "name": "Tuna Nigiri",
+      "description": "A simple dish with fresh tuna served on top of sushi rice.",
+      "price": 20000,
+      "imgUrl": "https://example.com/images/tuna-nigiri.jpg",
+      "UserId": 2,
+      "CategoryId": 3,
+      "createdAt": "2023-06-12T12:00:00.000Z",
+      "updatedAt": "2023-06-12T12:00:00.000Z"
+  }
+]
